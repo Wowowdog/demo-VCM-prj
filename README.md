@@ -21,4 +21,4 @@ This is a demo script for voice coild motor control on STM32/ARM M4 cortex.
 ## associated doc.
 [filter design note](https://drive.google.com/file/d/1aqMnyfdr6wfS0KhNzTkJJ_yOEIsFtxLj/view?usp=share_link)
 
-[VCM controller design](https://drive.google.com/file/d/1aofWPQ_WVctiZDtwdYiYLdtpWiVnDgS7/view?usp=share_link)
+[ontroller design note](https://drive.google.com/file/d/1aofWPQ_WVctiZDtwdYiYLdtpWiVnDgS7/view?usp=share_link)
