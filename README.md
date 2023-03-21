@@ -10,7 +10,7 @@ This is a demo script for voice coild motor control on ARM M4 cortex.
 * UART data transmittion 
 * USB receiving callback
 ## IIR filter design
-![alt text](http://url/to/img.png)
+![alt text](http://url/to/vcm1.png)
 ## PID design
 
 ## Image snippet
